@@ -7,7 +7,7 @@ on:
     branches: [ "master" ]
 
 env:
-  DOCKERHUB_REPO: martadams89/minthcm
+  DOCKERHUB_REPO: minthcm/minthcm
 
 jobs:
   build:
